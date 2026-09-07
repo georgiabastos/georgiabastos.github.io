@@ -11,6 +11,29 @@
   .home li {
     line-height: 1.7;
   }
+
+  .about-me-image img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .current-project-image img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media screen and (max-width: 600px) {
+    .about-me,
+    .current-project {
+      flex-direction: column !important;
+    }
+
+    .about-me-image,
+    .current-project-image {
+      order: -1 !important;
+      width: 100% !important;
+    }
+  }
 </style>
 
 <h2 style="border-top: 0px solid #dddddd; padding-top: 18px; margin-top: 30px;">About Me</h2>
@@ -28,6 +51,7 @@
     <p style="margin: 0 0 6px;"><b>Techniques:</b> cortical+hippocampal cranios, calcium imaging, optogenetics, electrophysiology</p>
     <p style="margin: 0;"><b>Contact:</b> gbastos-at-uni-bonn.de</p>
   </div>
+
 </div>
 
 <p class="contact-line" style="margin: 14px 0 0; color: #333; line-height: 1.6;">
