@@ -17,3 +17,19 @@ body {
 .home li {
   line-height: 1.7;
 }
+
+.current-project-image img {
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .current-project {
+    flex-direction: column;
+  }
+
+  .current-project-image {
+    order: -1;
+  }
+}

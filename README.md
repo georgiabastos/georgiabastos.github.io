@@ -44,7 +44,7 @@
 
 <h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Current Project</h2>
 
-<div style="display: flex; flex-wrap: nowrap; gap: 20px; align-items: stretch; margin: 20px 0 30px;">
+<div class="current-project" style="display: flex; flex-wrap: nowrap; gap: 20px; align-items: stretch; margin: 20px 0 30px;">
 
   <div style="flex: 1 1 420px; min-width: 0; display: flex; flex-direction: column; justify-content: center;">
     <p style="margin-top: 0;">
@@ -68,11 +68,11 @@
     </p>
   </div>
 
-  <div style="display: flex; align-items: stretch; justify-content: center; flex-shrink: 0;">
+  <div class="current-project-image" style="display: flex; align-items: stretch; justify-content: center; flex-shrink: 0;">
     <img src="SD.gif"
          alt="Spreading depolarization illustration"
          width="220"
-         style="margin: 0; border-radius: 6px; display: block;">
+         style="width: 220px; max-width: 100%; height: auto; margin: 0; border-radius: 6px; display: block;">
   </div>
 
 </div>
