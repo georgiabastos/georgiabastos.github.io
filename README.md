@@ -15,9 +15,9 @@
 
 <h2 style="border-top: 0px solid #dddddd; padding-top: 18px; margin-top: 30px;">About Me</h2>
 
-<div style="display: flex; align-items: center; gap: 28px; margin: 20px 0 12px;">
-  <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: center; width: 200px;">
-    <img src="P1061523.JPG" alt="Georgia Bastos" width="200" style="width: 200px; height: auto; display: block; margin: 0;">
+<div class="about-me" style="display: flex; align-items: center; gap: 28px; margin: 20px 0 12px;">
+  <div class="about-me-image" style="flex-shrink: 0; display: flex; align-items: center; justify-content: center; width: 200px;">
+    <img src="P1061523.JPG" alt="Georgia Bastos" width="200" style="width: 200px; max-width: 100%; height: auto; display: block; margin: 0;">
   </div>
 
   <div style="flex: 1; min-width: 0;">
