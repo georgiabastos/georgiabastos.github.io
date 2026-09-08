@@ -48,7 +48,7 @@
       Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. I have done it through predictive coding, psychedelics and epilepsy research. Huge human nature enthusiast. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Trained in the United States. Currently in Bonn, Germany.
     </p>
 
-    <p style="margin: 0 0 6px;"><b>Techniques:</b> cortical+hippocampal cranios, calcium imaging, optogenetics, electrophysiology</p>
+    <p style="margin: 0 0 6px;"><b>Techniques:</b> Two-photon calcium imaging; electrophysiology; stereotaxic surgery; optogenetics; mouse behavior; histology and molecular biology; MATLAB and Python; image and data analysis; data visualization; Git/GitHub; scientific illustration and multimedia editing; AI-assisted workflows. </p>
     <p style="margin: 0;"><b>Contact:</b> gbastos-at-uni-bonn.de</p>
   </div>
 
@@ -79,7 +79,7 @@
     </p>
 
     <p>
-      In particular, I study <em>spreading depolarization</em>. This phenomenon
+      In particular, I study <em>spreading depolarization</em> (SD). This phenomenon
       can occur when the brain experiences a seizure, stroke, trauma, or
       inflammation. It consists of a slowly spreading wave of intense neuronal
       depolarization followed by widespread silencing of neural activity.
@@ -93,10 +93,15 @@
   </div>
 
   <div class="current-project-image" style="display: flex; align-items: stretch; justify-content: center; flex-shrink: 0;">
-    <img src="SD.gif"
-         alt="Spreading depolarization illustration"
-         width="220"
-         style="width: 220px; max-width: 100%; height: auto; margin: 0; border-radius: 6px; display: block;">
+    <figure style="margin: 0; display: inline-block; text-align: center;">
+      <img src="SD.gif"
+           alt="Spreading depolarization illustration"
+           width="220"
+           style="width: 220px; max-width: 100%; height: auto; margin: 0; border-radius: 6px; display: block;">
+      <figcaption style="margin-top: 8px; font-size: 0.8rem; line-height: 1.4; color: #777777; font-style: italic;">
+        Hippocampal CA1 cells during SD wave
+      </figcaption>
+    </figure>
   </div>
 
 </div>
@@ -316,8 +321,7 @@
       Postdoctoral researcher · University of Bonn<br>
 
       <span style="color: #666666;">
-        Hippocampal circuits, calcium imaging, electrophysiology,
-        optogenetics, and behavior
+        Hippocampal circuits, epilepsy, spreading depolarization, photopharmacology, translational neuroscience
       </span>
     </div>
 
@@ -331,8 +335,7 @@
       PhD researcher · Georgia State University<br>
 
       <span style="color: #666666;">
-        Cortical circuits, calcium imaging, electrophysiology, and
-        optogenetics
+        Cortical circuits, visual context processing, mismatch negativity, schizophrenia, predictive coding, psychedelics, top-down modulation
       </span>
     </div>
 
