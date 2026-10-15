@@ -45,7 +45,7 @@
 
   <div style="flex: 1; min-width: 0;">
     <p style="margin: 0 0 12px;">
-      Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. I have done it through predictive coding, psychedelics and epilepsy research. Huge human nature enthusiast. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Trained in the United States. Currently in Bonn, Germany.
+      Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. My research has taken me from predictive coding to psychedelics, and now to hippocampal and epilepsy research. I am a <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A" target="_blank" rel="noopener">biological naturalist</a> and an AI enthusiast. If I don’t know it, I figure it out. Born and raised in Brazil. Trained in the United States. Currently in Bonn, Germany.
     </p>
 
     <p style="margin: 0 0 6px;"><b>Techniques:</b> Two-photon calcium imaging; electrophysiology; stereotaxic surgery; optogenetics; mouse behavior; histology and molecular biology; MATLAB and Python; image and data analysis; data visualization; Git/GitHub; scientific illustration and multimedia editing; AI-assisted workflows. </p>
@@ -72,23 +72,11 @@
 
   <div style="flex: 1 1 420px; min-width: 0; display: flex; flex-direction: column; justify-content: center;">
     <p style="margin-top: 0;">
-      I currently study hippocampal circuits in epilepsy. Although epilepsy is
-      different from my previous research, it touches on another fundamental
-      property of the brain: how neural circuits generate synchronized activity,
-      and what happens when that activity gets out of control.
+      I currently study hippocampal circuits in the context of epilepsy, particularly how the hippocampus maps the surrounding environment through spatial representations encoded by place cells.
     </p>
 
     <p>
-      In particular, I study <em>spreading depolarization</em> (SD). This phenomenon
-      can occur when the brain experiences a seizure, stroke, trauma, or
-      inflammation. It consists of a slowly spreading wave of intense neuronal
-      depolarization followed by widespread silencing of neural activity.
-    </p>
-
-    <p>
-      My central question is whether spreading depolarization acts as a
-      protective reset mechanism or whether it further damages already
-      vulnerable tissue and contributes to pathology.
+      My research focuses on spreading depolarization (SD), a phenomenon that can occur during seizures, strokes, trauma, or inflammation. It consists of a slowly propagating wave of intense neuronal depolarization followed by widespread suppression of neural activity. I am particularly interested in how these events affect the stability of hippocampal spatial representations.
     </p>
   </div>
 
@@ -150,7 +138,7 @@
        alt="Cover of the Cell Reports paper"
        width="90"
        height="90"
-       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
+       style="height: 90px; width: 90px; object-fit: contain; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
     <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
@@ -184,7 +172,7 @@
        alt="Cover of the psychedelics preprint"
        width="90"
        height="90"
-       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
+       style="height: 90px; width: 90px; object-fit: contain; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
     <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
@@ -213,11 +201,11 @@
 <!-- PROJECT 4 -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 24px 0; border-bottom: 1px solid #dddddd;">
 
-  <img src="biorxiv_article_logo.jpg"
-       alt="Cover of the mismatch negativity preprint"
+  <img src="npp.png"
+       alt="Cover of the mismatch negativity paper"
        width="90"
        height="90"
-       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
+       style="height: 90px; width: 90px; object-fit: contain; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
     <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
@@ -231,7 +219,7 @@
     </p>
 
     <p style="margin: 0; color: #666666; font-size: 0.95rem;">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/41279836/" style="color: #666666; text-decoration: none;">
+      <a href="https://www.nature.com/articles/s41386-026-02547-3" style="color: #666666; text-decoration: none;">
         Read
       </a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -246,11 +234,11 @@
 <!-- PROJECT 5 -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 24px 0;">
 
-  <img src="biorxiv_article_logo.jpg"
-       alt="Cover of the global context preprint"
+  <img src="cell_reports_2026.gif"
+       alt="Cover of the global context cell reports paper"
        width="90"
        height="90"
-       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
+       style="height: 90px; width: 90px; object-fit: contain; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
     <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
@@ -264,11 +252,11 @@
     </p>
 
     <p style="margin: 0; color: #666666; font-size: 0.95rem;">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/41542391/" style="color: #666666; text-decoration: none;">
+      <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01230-1?uuid=uuid%3Aec44e4f9-a3e5-4f9d-906d-23572dc369c0" style="color: #666666; text-decoration: none;">
         Read
       </a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="global.pdf" download style="color: #666666; text-decoration: none;">
+      <a href="global_cellreports.pdf" download style="color: #666666; text-decoration: none;">
         PDF
       </a>
     </p>
@@ -411,13 +399,13 @@
     <ul style="margin-top: 12px; padding-left: 18px; line-height: 1.7;">
       <li>Cold Spring Harbor Laboratory Conference on Neuronal Circuits, 2022</li>
       <li>Society of Biological Psychiatry's Annual Meeting, 2022</li>
-      <li>Society of Neuroscience Annual Meeting, 2022</li>
+      <li>Society for Neuroscience Annual Meeting, 2022</li>
       <li>Gordon Research Seminar & Conference - Neuronal circuit for Modulation of Behavior, 2023</li>
       <li>Bernstein Conference, 2025</li>
       <li>Deutschen Gesellschaft für Neurologie, 2025</li>
       <li>International Conference on Spreading Depolarization, Windsor, 2025</li>
       <li>Deutscher Akademischer Austauschdienst (DAAD) Summer School, Cairo, 2026</li>
-      <li>Gordon Reasearch Conference - Mechanism for Epilepsy and Neuronal Synchronization, Barcelona, 2026</li>
+      <li>Gordon Research Conference - Mechanism for Epilepsy and Neuronal Synchronization, Barcelona, 2026</li>
     </ul>
   </div>
 
@@ -427,7 +415,7 @@
       <li>Andrew Clancy Neuroscience Graduate Scholarship - Georgia State University, Neuroscience Institute</li>
       <li>Brains & Behavior Fellowship - Georgia State University Brains and Behavior Program (B&B)</li>
       <li>Dean's Graduate Professional Development Award - Georgia State University College of Arts & Sciences</li>
-      <li>2CI Fellowship in Neuroinflammation - Georgia State university Center for Neuroinflammation and Cardiovascular Diseases (CNCD)</li>
+      <li>2CI Fellowship in Neuroinflammation - Georgia State University Center for Neuroinflammation and Cardiovascular Diseases (CNCD)</li>
     </ul>
   </div>
 </div>
@@ -437,7 +425,6 @@
 English <br /> Portuguese <br /> German (B1)<br />
 
 
-<p>
 <h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Writings</h2>
 
 <div style="padding: 20px 0; border-bottom: 1px solid #dddddd;">
