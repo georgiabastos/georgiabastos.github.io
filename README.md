@@ -45,7 +45,7 @@
 
   <div style="flex: 1; min-width: 0;">
     <p style="margin: 0 0 12px;">
-      Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. My research has taken me from predictive coding to psychedelics, and now to hippocampal and epilepsy research. I am a <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A" target="_blank" rel="noopener">biological naturalist</a> and an AI enthusiast. If I don’t know it, I figure it out. Born and raised in Brazil. Trained in the United States. Currently in Bonn, Germany.
+      Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. My research has taken me from predictive coding to psychedelics, and now to hippocampus and epilepsy research. I am a <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A" target="_blank" rel="noopener">biological naturalist</a> and an AI enthusiast. If I don’t know it, I figure it out. Born and raised in Brazil. Trained in the United States. Currently in Bonn, Germany.
     </p>
 
     <p style="margin: 0 0 6px;"><b>Techniques:</b> Two-photon calcium imaging; electrophysiology; stereotaxic surgery; optogenetics; mouse behavior; histology and molecular biology; MATLAB and Python; image and data analysis; data visualization; Git/GitHub; scientific illustration and multimedia editing; AI-assisted workflows. </p>
